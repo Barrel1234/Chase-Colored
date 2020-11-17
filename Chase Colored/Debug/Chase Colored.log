@@ -1,0 +1,44 @@
+﻿  Chase Colored.cpp
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(8): warning C4305: 'initializing': truncation from 'double' to 'float'
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(16): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(17): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(18): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(19): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(61): warning C4244: 'argument': conversion from 'float' to 'T', possible loss of data
+          with
+          [
+              T=int
+          ]
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(95): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(98): warning C4305: '=': truncation from 'double' to 'float'
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(102): warning C4305: '=': truncation from 'double' to 'float'
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(103): warning C4305: '=': truncation from 'double' to 'float'
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(104): warning C4305: '=': truncation from 'double' to 'float'
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(106): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(127): warning C4305: '+=': truncation from 'double' to 'float'
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(128): warning C4305: '-=': truncation from 'double' to 'float'
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(142): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(153): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(157): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(159): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(167): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(168): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(168): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+e:\c++ game projects\chase colored\chase colored\chase colored.cpp(169): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Chase Colored.vcxproj -> E:\C++ game Projects\Chase Colored\Debug\Chase Colored.exe
